@@ -1,4 +1,6 @@
-﻿﻿--
+﻿--TRABALHO DE BD2
+
+﻿--
 -- Exercício 1
 --
 ALTER TABLE medico DROP CONSTRAINT medico_pkey CASCADE;
